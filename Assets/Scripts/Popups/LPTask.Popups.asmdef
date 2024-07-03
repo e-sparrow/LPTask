@@ -1,0 +1,16 @@
+{
+    "name": "LPTask.Popups",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d756ff700af440f4eb6af0ad477982d5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
